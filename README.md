@@ -24,8 +24,6 @@ O objetivo deste exercício foi praticar o tratamento de exceções em Java e co
 
 Este repositório faz parte da minha jornada de estudos em **Java Back-end** e foi criado com finalidade educacional para consolidar conceitos de tratamento de exceções.
 
-> Projeto desenvolvido como exercício acompanhado durante o curso do professor Nélio Alves.
-
 ---
 
 ### 👩‍💻 Autora
